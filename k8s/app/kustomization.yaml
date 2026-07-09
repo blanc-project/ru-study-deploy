@@ -8,4 +8,4 @@ resources:
 
 images:
   - name: ghcr.io/blanc-project/ru-study-app # not live until the source repo actually transfers there
-    newTag: latest # bumped to the built commit's sha by the private source repo's CI on every deploy
+    newTag: 6147697924186a4a27b22a95f6629813454715d3
