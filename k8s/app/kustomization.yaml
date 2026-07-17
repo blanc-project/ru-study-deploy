@@ -9,4 +9,4 @@ resources:
 
 images:
   - name: ghcr.io/blanc-project/ru-study-app # not live until the source repo actually transfers there
-    newTag: dd5ad1bf78549c57c02b7f61c020c332941154b4
+    newTag: 29c1b632aa8ed221aa18c01a4f7148c567e4cec0
